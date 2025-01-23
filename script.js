@@ -1,4 +1,5 @@
-const inputCheck = document.querySelector('modo-noturno')
+
+const inputCheck = document.querySelector('#modo-noturno')
 const elemento = document.querySelector('body')
 
 inputCheck.addEventListener('click', () => {
